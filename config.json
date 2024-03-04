@@ -1,0 +1,16 @@
+{
+  "token": "",
+  "adminid": "",
+  "//yorum1": "Burada bir loglama durumu tuttum belirttiğiniz kanala loglama yapar",
+
+  "logchannelid": "",
+  "loggerstate": "1",
+
+  "databaseUrl": "",
+
+  "//yorum2": "Bu ayarda bu dosyanın çalışacağı makinenin linux olup olmadığına bağlı.",
+  "vmstate": "",
+  "//yorum3": "",
+  "xrapidApi": "",
+  "geminiApi":""
+}

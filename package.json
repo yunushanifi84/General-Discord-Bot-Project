@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "NoM",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.6.2",
+    "discord.js": "^14.9.0",
+    "glob": "^10.2.2",
+    "jsonfile": "^6.1.0",
+    "mongoose": "^7.0.5",
+    "ms": "^2.1.3"
+  }
+}
